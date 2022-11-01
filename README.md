@@ -51,7 +51,7 @@ $ npm i
 $ npm run dev
 ```
 
-Acesse <http://localhost:8080> para ver o resultado.
+
 
 # :computer: Autores
 <table>
