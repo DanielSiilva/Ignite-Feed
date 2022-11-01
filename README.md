@@ -23,6 +23,10 @@ ignite reactjs 01 fundamentos react
 
 
 ### Fotos
+![image](https://user-images.githubusercontent.com/94769388/199335324-4a815400-1d4e-4473-a201-9bc328b7d778.png)
+
+![image](https://user-images.githubusercontent.com/94769388/199335400-13f82c05-cd5e-4188-949e-5bfe219b94f7.png)
+
 
 <div>
    
